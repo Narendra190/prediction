@@ -1,2 +1,2 @@
-# prediction
+# PREDICTION
 machine learning project
