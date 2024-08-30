@@ -1,2 +1,3 @@
-# PREDICTION
-machine learning project
+# PROJECT
+For prediction
+
